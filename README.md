@@ -1,5 +1,7 @@
 # Chaos
 
+![The Battlegrounds](screenshots/chaos_x11.gif)
+
 ## What
 A hopeful clone of the great game of Chaos by Julian Gollop ( http://www.worldofspectrum.org/infoseekid.cgi?id=0000894 ) recreated and extended for upto 12 players.
 
