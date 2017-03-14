@@ -1,0 +1,15 @@
+#/***************************************************************
+#*  magic_upgrade.dat (Mod : Chaos-Base)            #######     *
+#*  chaos-eng(c) int13h 2005-2008                   #.....#     *
+#*                                                  #..@..#     *
+#*  Spell Upgrade Data File                         #.....#     *
+#*  - Spells that upgrade items                     #######     *
+#*  Modify with care!                                           *
+#*                                                              *
+#***************************************************************/
+# Fields : id,name,disp,color,desc,attack,ranged_damage,ranged_range,defense,move_range,flight,attack_undead,balance,cast_prob
+01,Magic Wings,},violet,"Allows player to fly.",0,0,0,0,4,1,0,0,6
+02,Magic Bow,),purple,"Allows gives player ranged combat.",0,4,6,0,0,0,1,1,6
+03,Magic Knife,¦,cyan,"Gives player extra attack damage and can attack undead.",3,0,0,0,0,0,1,1,8
+04,Magic Sword,/,green,"Gives player extra attack damage and can attack undead.",6,0,0,0,0,0,1,1,6
+05,Shadow Cloak,",lblue,"Gives player increased defense.",0,0,0,3,2,0,0,0,5

@@ -1,0 +1,16 @@
+#/***************************************************************
+#*  magic_ranged.dat (Mod : Chaos-Base)             #######     *
+#*  chaos-eng(c) int13h 2005-2008                   #.....#     *
+#*                                                  #..@..#     *
+#*  Spell Ranged Data File                          #.....#     *
+#*  - Spells that use ranged attack                 #######     *
+#*  Modify with care!                                           *
+#*                                                              *
+#***************************************************************/
+# Fields : id,name,disp,color,desc,assoc_func,ranged_damage,ranged_range,uses,beam,bal,cast_prob
+01,Magic Bolt,*,white,"Fire a magic bolt at an enemy",0,5,6,1,1,0,6
+02,Lightning Bolt,*,lblue,"Fire a lightning bolt at an enemy",0,8,4,1,1,0,8
+03,Dark Power,0,dwhite,"3 Ranged attacks",1,9,0,3,0,-3,3
+04,Vengence,0,dwhite,"If cast on a creature will resurect last monster it killed otherwise just attack player",3,9,0,1,0,-1,6
+05,Justice,0,dwhite,"Player attack - if successful will kill players creatures",2,0,0,3,0,3,3
+06,Banishment,0,dwhite,"1 Ranged attack",0,1,0,1,0,1,6

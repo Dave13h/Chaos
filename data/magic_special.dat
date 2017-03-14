@@ -1,0 +1,11 @@
+#/***************************************************************
+#*  magic_special.dat (Mod : Chaos-Base)            #######     *
+#*  chaos-eng(c) int13h 2005-2008                   #.....#     *
+#*                                                  #..@..#     *
+#*  Spell Special Data File                         #.....#     *
+#*  - Spells that players get by default            #######     *
+#*  Modify with care!                                           *
+#*                                                              *
+#***************************************************************/
+# Fields : id,name,desc,assoc_func,cast_prob,cast_range
+01,Disbelieve,"Cast on a creature to see if it is an illusion.",1,10,0

@@ -1,0 +1,12 @@
+#/***************************************************************
+#*  magic_spell_attrib.dat (Mod : Chaos-Base)       #######     *
+#*  chaos-eng(c) int13h 2005-2008                   #.....#     *
+#*                                                  #..@..#     *
+#*  Spell Attribute Data File                       #.....#     *
+#*  - Modify Spell Attributes                       #######     *
+#*  Modify with care!                                           *
+#*                                                              *
+#***************************************************************/
+# Fields : id,name,desc,assoc_func,change_alive,turn_undead,change_owner,balance,cast_prob,cast_range
+01,Raise Dead,"Resurrect Dead Creature",2,1,1,1,-1,6,4
+02,Subversion,"Steal Enemy Creature",1,0,0,1,1,8,7

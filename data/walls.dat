@@ -1,0 +1,13 @@
+#/***************************************************************
+#*  walls.dat (Mod : Chaos-Base)                    #######     *
+#*  chaos-eng(c) int13h 2005-2008                   #.....#     *
+#*                                                  #..@..#     *
+#*  Wall Spell Data File                            #.....#     *
+#*  Modify with care!                               #######     *
+#*                                                              *
+#*                                                              *
+#***************************************************************/
+# Fields : id,name,disp,color,desc,attack,defense,cast_prob,cast_range,assoc_func,mount,genspells,turnlimit,uses,balance
+01,Wall,#,red,"Wall-age",0,0,8,5,1,0,0,0,4,0
+02,Magic Castle,#,grey,"Magic Castle gives spells",0,0,6,5,0,1,0,1,-1,1
+03,Dark Citadel,#,purple,"Dark Citadel gives spells",0,0,6,5,0,1,0,1,-1,-1

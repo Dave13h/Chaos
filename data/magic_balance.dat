@@ -1,0 +1,14 @@
+#/***************************************************************
+#*  magic_balance.dat (Mod : Chaos-Base)            #######     *
+#*  chaos-eng(c) int13h 2005-2008                   #.....#     *
+#*                                                  #..@..#     *
+#*  Spell Balance Data File                         #.....#     *
+#*  - Spells that affect the world balance          #######     *
+#*  Modify with care!                                           *
+#*                                                              *
+#***************************************************************/
+# Fields : id,name,desc,balance,cast_prob
+01,Law,"Increase the world balance Law +1.",1,3
+01,Law-2,"Increase the world balance Law +2.",2,5
+01,Chaos,"Increase the world balance Chaos +1.",-1,3
+01,Chaos-2,"Increase the world balance Chaos +2.",-2,5

@@ -1,0 +1,12 @@
+#/***************************************************************
+#*  blobs.dat (Mod : Chaos-Base)                    #######     *
+#*  chaos-eng(c) int13h 2005-2008                   #.....#     *
+#*                                                  #..@..#     *
+#*  Blob Spell Data File                            #.....#     *
+#*  Modify with care!                               #######     *
+#*                                                              *
+#*                                                              *
+#***************************************************************/
+# Fields : id,name,disp,color,desc,attack,defense,cast_prob,cast_range,assoc_func,autospawn,devourer,roundlimit,uses,balance
+01,Gooey Blob,J,multi3,"A gloopy blob of evil",0,4,7,8,0,0,1,0,1,0
+02,Fire,*,multi2,"Fire bad!",0,0,7,8,0,0,0,0,1,0
