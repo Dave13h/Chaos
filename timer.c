@@ -45,7 +45,7 @@ int msgdecay = 0;
 #..catch_timer().#
 ##################
 */
-static void catch_timer(int signum)
+static void catch_timer(void)
 {
     timer_ticks++;
     gettimeofday(&current_snap,NULL);
