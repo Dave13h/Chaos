@@ -815,7 +815,7 @@ bool is_mounted (int x, int y)
 */
 void mount_item (int x, int y)
 {
-    int current_layer = itemstack_top(x,y)
+    int current_layer = itemstack_top(x,y);
     int p = myworld.current_player + 9;
 
     console_log(__FILE__,__func__,__LINE__,LOG_NOTICE, sprintf(log_message,
